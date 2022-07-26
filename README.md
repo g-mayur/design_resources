@@ -1,5 +1,4 @@
 ![Repository Banner](banner_img.jpg)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
 ## Table of Contents
 
@@ -37,7 +36,7 @@
 
 ## UI Graphics
 
->Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
+>Resources with modern UI components such as PSD, Sketch, Figma, etc. It's great for getting ideas for web components or user interfaces.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -97,7 +96,7 @@
 
 ## Fonts
 
->Websites that offer free fonts as well as font-based tools
+>Providers of free fonts as well as font-based tools.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -144,7 +143,7 @@
 
 ## Colors
 
->Websites and resources that help with choices related to colors
+>Resources and websites that help people make color choices.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -221,7 +220,7 @@
 
 ## Icons
 
->Resources for Icons including png, svg and more
+>There are a variety of resources for icons, such as png, SVG, and more.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -287,7 +286,7 @@
 
 ## Logos
 
->Resources for Logos
+>An extensive list of Logo resources.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -309,7 +308,7 @@
 
 ## Favicons
 
->Resources for Favicons
+>An extensive list of Favicons.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -327,7 +326,7 @@
 
 ## Icon Fonts
 
->Resources for Icon Fonts
+>An extensive list of Icon Fonts.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -359,7 +358,7 @@
 
 ## Stock Photos
 
->Websites that offer free stock photos of all kinds for your websites and apps
+>These websites offer free stock photos for apps and websites of all kinds.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -407,7 +406,7 @@
 
 ## Stock Videos
 
->Websites that offer free stock videos of all kinds for your websites and apps
+>The best websites and apps for free stock videos.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -428,7 +427,7 @@
 
 ## Stock Music & Sound Effects
 
->Websites that offer free stock music and/or sound effects
+>Music and sound effects websites offering free music and sound effects.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -448,7 +447,7 @@
 
 ## Vectors & Clip Art
 
->Free vectors, clipart, illustrations, patterns and more
+>Thousands of free vectors, cliparts, illustrations, and patterns.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -484,7 +483,7 @@
 
 ## Product & Image Mockups
 
->Create mockups of devices and other products
+>Mockups of devices and other products can be created.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -512,7 +511,7 @@
 
 ## HTML & CSS Templates
 
->Websites that offer free beautiful website templates and themes of all types
+>There are many websites that offer free beautiful website templates and themes.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -548,7 +547,7 @@
 
 ## CSS Frameworks
 
->CSS/UI frameworks to help build great looking websites and applications
+>The best CSS/UI frameworks for building beautiful websites and applications.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -618,7 +617,7 @@
 
 ## CSS Methodologies
 
->CSS methodologies to help write modular, reusable and scalable code
+>A set of CSS methodologies to help you write modular, reusable, and scalable code.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -633,7 +632,7 @@
 
 ## CSS Animations
 
->CSS animations to build awesome animations for websites and applications
+>Build awesome animations for your website or application using CSS animations.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -669,7 +668,7 @@
 
 ## Javascript Animation Libraries
 
->javascript animations libraries to build awesome animations for websites and applications
+>The best Javascript animation libraries for creating awesome animations for your website and application.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
